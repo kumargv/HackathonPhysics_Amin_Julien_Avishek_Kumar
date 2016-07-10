@@ -1,0 +1,9 @@
+Required Libraries:
+sdl2, sdl2_image, gl, glew, ftgl   
+Note: ImGui  is an external library which should be cloned in the same project directory (git clone https://github.com/ocornut/imgui.git)
+
+Compile:
+./compile
+
+Run (ideal resolution 2560x1440):
+./main
